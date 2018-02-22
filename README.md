@@ -1,4 +1,4 @@
-# JavaScript Objects
+Delete# JavaScript Objects
 
 ## Objectives
 + Explain what an object is in JavaScript is
